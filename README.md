@@ -14,6 +14,4 @@ to the commit messages.
 ***
 
 TO DO:
-  CREATE and TEST AJAX FUNCTION from js file executed through html page during browser session.
-  Decorate JSON viewer utilizing LESS
-  test and extend
+CREATE and TEST AJAX FUNCTION from js file executed through html page during browser session. Decorate JSON viewer utilizing LESS. test and extend
